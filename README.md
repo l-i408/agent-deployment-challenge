@@ -10,6 +10,7 @@ Tu objetivo es dejar este agente funcionando en un entorno real. Para ello tendr
 - desplegar el repositorio en ella;
 - conectar la aplicación con un modelo de IA de tu elección;
 - dejar el entorno accesible y preparado para probarlo;
+- proteger el acceso mediante un sistema de login;
 - crear una skill que plantee la integración del agente con WhatsApp;
 - documentar el despliegue y las decisiones técnicas tomadas.
 
@@ -60,9 +61,17 @@ Completa [`skills/whatsapp-integration/SKILL.md`](skills/whatsapp-integration/SK
 
 La tecnología y el método de integración son parte de tus decisiones. No incluyas credenciales, sesiones ni datos reales en el repositorio.
 
+## Memoria entre conversaciones
+
+Desarrolla un sistema que permita al agente recordar y relacionar información obtenida en conversaciones diferentes. Una petición podrá comenzar en una conversación y completarse o enriquecerse utilizando información recopilada en conversaciones anteriores o posteriores.
+
+La solución técnica es libre. Esta funcionalidad deberá presentarse mediante un pull request sobre este repositorio.
+
 ## Entrega
 
 Comparte el código resultante, el acceso al entorno preparado para la prueba y una breve documentación que permita entender el despliegue y las decisiones tomadas.
+
+Únicamente el sistema de memoria entre conversaciones deberá entregarse mediante un pull request.
 
 No buscamos una infraestructura o un proveedor concretos. Valoraremos el resultado en conjunto y la claridad con la que puedas explicar tu trabajo.
 
