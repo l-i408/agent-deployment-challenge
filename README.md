@@ -65,7 +65,7 @@ La tecnología y el método de integración son parte de tus decisiones. No incl
 
 Desarrolla un sistema que permita al agente consultar y relacionar información obtenida en conversaciones diferentes. Una petición podrá comenzar en una conversación y completarse o enriquecerse utilizando información recopilada en conversaciones anteriores o posteriores.
 
-La solución técnica es libre. Esta funcionalidad deberá presentarse mediante un pull request sobre este repositorio.
+La solución técnica es libre.
 
 ## Entrega
 
