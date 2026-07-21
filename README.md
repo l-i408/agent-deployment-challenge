@@ -74,10 +74,3 @@ Comparte el código resultante, el acceso al entorno preparado para la prueba y 
 Únicamente el sistema de memoria entre conversaciones deberá entregarse mediante un pull request.
 
 No buscamos una infraestructura o un proveedor concretos. Valoraremos el resultado en conjunto y la claridad con la que puedas explicar tu trabajo.
-
-## Seguridad
-
-- No subas secretos ni credenciales al repositorio.
-- Utiliza datos ficticios durante la prueba.
-- Controla los permisos y el consumo de los servicios que contrates.
-- Retira o apaga los recursos cuando ya no sean necesarios.
