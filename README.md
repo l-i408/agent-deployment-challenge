@@ -61,7 +61,7 @@ Completa [`skills/whatsapp-integration/SKILL.md`](skills/whatsapp-integration/SK
 
 La tecnología y el método de integración son parte de tus decisiones. No incluyas credenciales, sesiones ni datos reales en el repositorio.
 
-## Memoria entre conversaciones
+## Capacidad multiconversación
 
 Desarrolla un sistema que permita al agente recordar y relacionar información obtenida en conversaciones diferentes. Una petición podrá comenzar en una conversación y completarse o enriquecerse utilizando información recopilada en conversaciones anteriores o posteriores.
 
