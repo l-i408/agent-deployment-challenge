@@ -71,6 +71,4 @@ La solución técnica es libre.
 
 Comparte el código resultante, el acceso al entorno preparado para la prueba y una breve documentación que permita entender el despliegue y las decisiones tomadas.
 
-Únicamente el sistema de memoria entre conversaciones deberá entregarse mediante un pull request.
-
 No buscamos una infraestructura o un proveedor concretos. Valoraremos el resultado en conjunto y la claridad con la que puedas explicar tu trabajo.
